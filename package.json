@@ -1,0 +1,23 @@
+{
+  "name": "the-game",
+  "version": "1.0.0",
+  "description": "You just have lost it, but wouldn't it cool to track your streak?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeartbeatPlantation/the-game.git"
+  },
+  "author": "Maxim Gaertner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeartbeatPlantation/the-game/issues"
+  },
+  "homepage": "https://github.com/HeartbeatPlantation/the-game#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
